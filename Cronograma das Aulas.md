@@ -1,4 +1,4 @@
-### Progresso das Aulas BootCamp Santander
+### Progresso das Aulas BootCamp Santander :man_student:
 
 ##### Estou começando a aprender programação na Dio, estou gostando muito e pretendo absorver ao máximo todas as informações.
 
